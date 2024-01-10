@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Amarpreet Singh</h1>
-<h3 align="center">Competitive Programmer | Web development Enthusiast!</h3>
+<h3 align="center"> Programmer | Problem Solving |  Web development Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarpreet-singh07&label=Profile%20views&color=0e75b6&style=flat" alt="amarpreet-singh07" /> </p>
 
